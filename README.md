@@ -14,3 +14,13 @@ It includes overtime calculation: if the employee works more than 40 hours, they
      - Overtime pay = (hours - 40) × rate × 1.5  
      - Total pay = regular pay + overtime pay
 4. Displays total pay using `print()
+   
+## 🧠 Skills Practiced
+
+- Conditional logic (`if` / `else`)
+- Arithmetic operations
+- Type conversion (`float`)
+- User input and output
+
+## 🔗 Related Projects
+[Basic Pay Calculator] https://github.com/AaishahMunir/pay-calculator-python
