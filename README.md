@@ -24,3 +24,4 @@ It includes overtime calculation: if the employee works more than 40 hours, they
 
 ## 🔗 Related Projects
 [Basic Pay Calculator](https://github.com/AaishahMunir/pay-calculator-basic)
+[Overtime Version](https://github.com/AaishahMunir/pay-calculator-overtime)
